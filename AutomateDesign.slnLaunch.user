@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "API\\API.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "IHM\\IHM.csproj",
+        "Action": "Start",
+        "DebugTarget": "IHM"
+      }
+    ]
+  }
+]
