@@ -416,3 +416,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+*.db-journal
+*.bak_*
+*.lck
+*.vux
+**/LoopingImage.jpg
+**/Thumbs.db
+**/BDDModernTech.sqbpro
